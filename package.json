@@ -10,6 +10,10 @@
   "author": "Brian Stanton",
   "license": "ISC",
   "devDependencies": {
+    "@types/uuid": "^9.0.3",
     "typescript": "^5.2.2"
+  },
+  "dependencies": {
+    "uuid": "^9.0.0"
   }
 }
